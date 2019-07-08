@@ -1,0 +1,27 @@
+{
+  "name": "classwork_8a",
+  "version": "1.0.0",
+  "description": "Node js Example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "serve": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirsahib/Nodejs_Example.git"
+  },
+  "author": "Mir Sahib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirsahib/Nodejs_Example/issues"
+  },
+  "homepage": "https://github.com/mirsahib/Nodejs_Example#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
